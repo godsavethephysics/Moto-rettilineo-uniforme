@@ -1,1 +1,0 @@
-# Moto-rettilineo-uniforme
